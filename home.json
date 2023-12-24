@@ -96,7 +96,7 @@
    "noti_image":"https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542",
    "noti_message":"We have one of notification for you that is special. Here is to get Preminium feature on this Application. Click ‘Done’ to get below.",
    "show_cancel":true,
-   "noti_show":false,
+   "noti_show":true,
    "noti_done_text":"Rate",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
 }
